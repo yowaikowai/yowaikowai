@@ -20,7 +20,7 @@ I design and build AI-driven automation, structured RAG systems, and serverless 
 ## Tech Stack
 
 **Languages:** Python · SQL · JavaScript  
-**Cloud:** AWS (Lambda, S3, EC2, SES, Bedrock) · GCP  
+**Cloud:** AWS (Lambda, S3, EC2, ECR, SES, Bedrock) · GCP  
 **AI & Data:** LangChain · OpenAI · OpenRouter · Groq · pgvector  
 **Tools:** Docker · Streamlit · n8n  
 
