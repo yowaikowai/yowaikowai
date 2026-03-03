@@ -1,40 +1,50 @@
-# Hi, I'm @yowaikowai ![Profile Views](https://komarev.com/ghpvc/?username=yowaikowai&color=blue&style=flat)
+# Hi, I'm @yowaikowai 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=yowaikowai&color=blue&style=flat)
 
-Python developer focused on AI, serverless, and automation.
+AI Systems Engineer | Project Manager | Data Engineer
 
-## What I Build
+I design and build AI-driven automation, structured RAG systems, and serverless data pipelines that solve real business workflows.
 
-- AI chatbots powered by LLMs and vector search (RAG)
-- Serverless APIs and microservices on AWS Lambda
-- Monitoring and alerting systems
-- Automation tools and web crawlers
-- Document management and analysis platforms
+---
+
+## What I Work On
+
+- AI document intelligence platforms (RAG + vector search)
+- Serverless APIs and microservices (AWS)
+- Data ingestion and transformation pipelines
+- Automation systems (Docker + n8n)
+- Monitoring and alerting frameworks
+
+---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Amazon SES](https://img.shields.io/badge/Amazon_SES-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+**Languages:** Python · SQL · JavaScript  
+**Cloud:** AWS (Lambda, S3, EC2, SES, Bedrock) · GCP  
+**AI & Data:** LangChain · OpenAI · OpenRouter · Groq · pgvector  
+**Tools:** Docker · Streamlit · n8n  
 
-## Currently
+---
 
-- Building AI-powered tools for real-world business workflows
-- Exploring multi-agent systems and AI orchestration
+<details>
+<summary><strong>More About My Approach</strong></summary>
 
-## GitHub Stats
+<br>
+
+- I translate business requirements into scalable AI system architectures.  
+- I focus on structured RAG pipelines to minimize hallucinations.  
+- I prefer deterministic workflows over prompt-only solutions.  
+- I design systems that scale without constant manual intervention.  
+
+</details>
+
+---
+
+## Currently Exploring
+
+- Multi-agent AI orchestration  
+- AI-native SaaS infrastructure  
+
+---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yowaikowai&theme=dark)
